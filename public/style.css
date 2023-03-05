@@ -1,0 +1,23 @@
+:root {
+    color-scheme: dark;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+label {
+    display: block;
+}
+
+input, textarea {
+    margin-bottom: 15px;
+}
+
+input[type=submit] {
+    display: block;
+}
+
+a {
+    color: #fff;
+}

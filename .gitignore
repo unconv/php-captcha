@@ -1,0 +1,7 @@
+vendor/
+node_modules/
+secretpassword.php
+spammer.php
+puppeteer-spammer.js
+project/
+captchas/
